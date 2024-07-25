@@ -3,6 +3,7 @@ library(survival)
 library(forestmodel)
 library(patchwork)
 library(clipr)
+library(survminer)
 
 # Read the clipboard data into a data frame
 #new_data <- read.table(text = read_clip(), header = TRUE, sep = "\t")
